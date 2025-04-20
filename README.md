@@ -1,3 +1,4 @@
+[![](https://raw.githubusercontent.com/azambdev/main/Githubprofile.gif)](https://www.azamb.dev/)
 ## Hi there 👋
 
 <!--
