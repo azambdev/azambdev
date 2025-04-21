@@ -15,10 +15,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![VB6](https://img.shields.io/badge/VB6-6A1B9A?style=for-the-badge&logo=visual-basic&logoColor=white)
 
-**Data Bases**
+**Databases**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-003B57?style=for-the-badge&logo=azure-cosmos-db&logoColor=white)](https://azure.microsoft.com/en-us/products/cosmos-db/)
+[![Azure Data Explorer](https://img.shields.io/badge/Azure%20Data%20Explorer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/data-explorer/)
 
 **Some of the technologies I have worked with**
 
